@@ -1,4 +1,7 @@
+using AutoMapper;
+using FracassoShopping.ProductAPI.Config;
 using FracassoShopping.ProductAPI.Model.Context;
+using FracassoShopping.ProductAPI.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +12,12 @@ var connectionString = builder.Configuration.GetConnectionString("MySQLConnectio
 // Registra o DbContext com a connection string
 builder.Services.AddDbContext<MySQLContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
+
+IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
+builder.Services.AddSingleton(mapper);
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

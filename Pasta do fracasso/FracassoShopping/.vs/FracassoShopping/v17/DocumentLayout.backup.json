@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\migrations\\20250731004136_jaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\migrations\\20250731004136_jaca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\data\\valueobjects\\productvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\model\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|solutionrelative:fracassoshopping.productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B4609D5-D6C9-4186-8119-7CF1C38F40F4}|FracassoShopping.ProductAPI\\FracassoShopping.ProductAPI.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\fracassoshopping\\fracassoshopping.productapi\\model\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -39,78 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20250731004136_jaca.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Migrations\\20250731004136_jaca.cs",
-              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Migrations\\20250731004136_jaca.cs",
-              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Migrations\\20250731004136_jaca.cs",
-              "RelativeToolTip": "FracassoShopping.ProductAPI\\Migrations\\20250731004136_jaca.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "FracassoShopping.ProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T00:41:37.052Z",
+              "WhenOpened": "2025-08-01T15:57:59.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Model\\Product.cs",
-              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Product.cs",
-              "RelativeToolTip": "FracassoShopping.ProductAPI\\Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T11:51:52.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\appsettings.json",
-              "RelativeToolTip": "FracassoShopping.ProductAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-29T11:40:08.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Program.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Program.cs",
               "RelativeToolTip": "FracassoShopping.ProductAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T11:18:05.281Z",
+              "WhenOpened": "2025-07-31T22:35:40.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MySQLContext.cs",
-              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "RelativeToolTip": "FracassoShopping.ProductAPI\\Model\\Context\\MySQLContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "RelativeToolTip": "FracassoShopping.ProductAPI\\Config\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T11:13:36.736Z"
+              "WhenOpened": "2025-07-31T22:01:50.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
               "RelativeToolTip": "FracassoShopping.ProductAPI\\Model\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T11:11:32.656Z"
+              "WhenOpened": "2025-07-31T21:44:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Model\\Product.cs",
+              "RelativeToolTip": "FracassoShopping.ProductAPI\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:39:14.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductVO.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "RelativeToolTip": "FracassoShopping.ProductAPI\\Data\\ValueObjects\\ProductVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:18:42.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "FracassoShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\FracassoShopping\\FracassoShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "FracassoShopping.ProductAPI\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T21:16:48.056Z",
+              "EditorCaption": ""
             }
           ]
         }

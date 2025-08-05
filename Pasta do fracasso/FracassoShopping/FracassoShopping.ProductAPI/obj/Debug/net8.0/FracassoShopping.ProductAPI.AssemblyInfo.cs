@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FracassoShopping.ProductAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51566edd6b2507c9a71201c3702147199f6a5be8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b19a09e18f7000cbfbe082a28c3f505e9c3df70")]
 [assembly: System.Reflection.AssemblyProductAttribute("FracassoShopping.ProductAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FracassoShopping.ProductAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
