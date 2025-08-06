@@ -10,31 +10,25 @@ namespace PedidoService.Domain.Entities
     {
         public Guid Id { get; private set; } = Guid.NewGuid(); // Identidade do Pedido
 
-        public string ClienteNome { get; private set; }
+        public Guid ClienteId { get; private set; }
+        public Cliente Cliente { get; private set; } = null!;
         public DateTime DataCriacao { get; private set; }
-        public decimal Total { get; private set; }
-
         private readonly List<PedidoItem> _itens = new();
         public IReadOnlyCollection<PedidoItem> Itens => _itens.AsReadOnly();
+
+        public decimal Total => _itens.Sum(i => i.PrecoTotal);
 
         // Construtor privado para EF ou proteção de invariantes
         private Pedido() { }
 
-        public Pedido(string clienteNome, List<PedidoItem> itens)
+        public Pedido(Guid clienteId, List<PedidoItem> itens)
         {
-            if (string.IsNullOrWhiteSpace(clienteNome))
-                throw new ArgumentException("Nome do cliente é obrigatório.");
+            if (clienteId == Guid.Empty)
+                throw new ArgumentException("ClienteId inválido.");
 
-            if (itens == null || itens.Count == 0)
-                throw new ArgumentException("Pedido deve conter ao menos um item.");
-
-            ClienteNome = clienteNome;
+            Id = Guid.NewGuid();
+            ClienteId = clienteId;
             DataCriacao = DateTime.UtcNow;
-
-            foreach (var item in itens)
-                AdicionarItem(item);
-
-            Total = _itens.Sum(i => i.PrecoTotal);
         }
 
         public void AdicionarItem(PedidoItem item)

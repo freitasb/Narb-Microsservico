@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\FracassoShopping.ProductAPI.props" />
-</Project>

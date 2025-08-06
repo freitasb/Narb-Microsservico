@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|solutionrelative:pedidoservice.infrastructure\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|solutionrelative:pedidoservice.domain\\entities\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\commands\\criarpedido\\criarpedidocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\commands\\criarpedido\\criarpedidocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\commands\\criarpedido\\criarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\commands\\criarpedido\\criarpedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.domain\\entities\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +27,44 @@
       "RelativeMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|solutionrelative:pedidoservice.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\interfaces\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.infrastructure\\context\\pedidodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|solutionrelative:pedidoservice.infrastructure\\context\\pedidodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.infrastructure\\pedidoservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|solutionrelative:pedidoservice.infrastructure\\pedidoservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\pedidoservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\pedidoservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\commands\\atualizaremaildocliente\\atualizaremaildoclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\commands\\atualizaremaildocliente\\atualizaremaildoclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\commands\\atualizaremaildocliente\\atualizaremaildoclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\commands\\atualizaremaildocliente\\atualizaremaildoclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\dtos\\criarpedidoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\dtos\\criarpedidoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.domain\\value objects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|solutionrelative:pedidoservice.domain\\value objects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.domain\\value objects\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|solutionrelative:pedidoservice.domain\\value objects\\cpf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.domain\\pedidoservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|solutionrelative:pedidoservice.domain\\pedidoservice.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.domain\\value objects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7960095-3A5E-4BB6-8CC2-052950F73610}|PedidoService.Domain\\PedidoService.Domain.csproj|solutionrelative:pedidoservice.domain\\value objects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12FB503C-4534-4EFC-84E4-1DE68F02682C}|PedidoService.API\\PedidoService.API.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,120 +77,216 @@
     {
       "AbsoluteMoniker": "D:0:0:{C71253C9-C573-405C-A3A2-D34BA8172783}|tests\\PedidoService.Tests\\PedidoService.Tests.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\tests\\pedidoservice.tests\\pedidoservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C71253C9-C573-405C-A3A2-D34BA8172783}|tests\\PedidoService.Tests\\PedidoService.Tests.csproj|solutionrelative:tests\\pedidoservice.tests\\pedidoservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.infrastructure\\pedidoservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0863D899-220D-4547-BDE7-0176E05C3267}|PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj|solutionrelative:pedidoservice.infrastructure\\pedidoservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|c:\\users\\brian\\documents\\agora n\u00E3o vai\\narb-microsservico\\pasta do fracasso\\pedidoservice\\pedidoservice.application\\pedidoservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E337039F-786A-4687-9CAC-027E65C623E8}|PedidoService.Application\\PedidoService.Application.csproj|solutionrelative:pedidoservice.application\\pedidoservice.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 212,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "PedidoService.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "PedidoService.Infrastructure\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:34:45.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\Context\\PedidoDbContext.cs",
+              "RelativeDocumentMoniker": "PedidoService.Infrastructure\\Context\\PedidoDbContext.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\Context\\PedidoDbContext.cs",
+              "RelativeToolTip": "PedidoService.Infrastructure\\Context\\PedidoDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:11:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PedidoService.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
+              "RelativeToolTip": "PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T21:55:23.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Interfaces\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "PedidoService.Application\\Interfaces\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Interfaces\\IPedidoRepository.cs",
+              "RelativeToolTip": "PedidoService.Application\\Interfaces\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:21:12.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AtualizarEmailDoClienteCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommandHandler.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommandHandler.cs",
+              "RelativeToolTip": "PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommandHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:59:13.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AtualizarEmailDoClienteCommand.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommand.cs",
+              "RelativeDocumentMoniker": "PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommand.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommand.cs",
+              "RelativeToolTip": "PedidoService.Application\\Commands\\AtualizarEmailDoCliente\\AtualizarEmailDoClienteCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:52:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarPedidoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommandHandler.cs",
+              "RelativeDocumentMoniker": "PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommandHandler.cs",
+              "RelativeToolTip": "PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:20:38.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CriarPedidoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\DTOs\\CriarPedidoItemDto.cs",
+              "RelativeDocumentMoniker": "PedidoService.Application\\DTOs\\CriarPedidoItemDto.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\DTOs\\CriarPedidoItemDto.cs",
+              "RelativeToolTip": "PedidoService.Application\\DTOs\\CriarPedidoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:09:37.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CriarPedidoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommand.cs",
+              "RelativeDocumentMoniker": "PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommand.cs",
+              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommand.cs",
+              "RelativeToolTip": "PedidoService.Application\\Commands\\CriarPedido\\CriarPedidoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:55:24.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Email.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Value Objects\\Email.cs",
               "RelativeDocumentMoniker": "PedidoService.Domain\\Value Objects\\Email.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Value Objects\\Email.cs",
               "RelativeToolTip": "PedidoService.Domain\\Value Objects\\Email.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T18:26:46.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "CPF.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Value Objects\\CPF.cs",
               "RelativeDocumentMoniker": "PedidoService.Domain\\Value Objects\\CPF.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Value Objects\\CPF.cs",
               "RelativeToolTip": "PedidoService.Domain\\Value Objects\\CPF.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwB4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T18:26:26.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "PedidoService.Domain\\Entities\\Cliente.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Entities\\Cliente.cs",
               "RelativeToolTip": "PedidoService.Domain\\Entities\\Cliente.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwB0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T18:24:21.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PedidoItem.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Entities\\PedidoItem.cs",
               "RelativeDocumentMoniker": "PedidoService.Domain\\Entities\\PedidoItem.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Entities\\PedidoItem.cs",
               "RelativeToolTip": "PedidoService.Domain\\Entities\\PedidoItem.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T11:55:19.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Entities\\Pedido.cs",
               "RelativeDocumentMoniker": "PedidoService.Domain\\Entities\\Pedido.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\Entities\\Pedido.cs",
               "RelativeToolTip": "PedidoService.Domain\\Entities\\Pedido.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T11:53:56.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.API\\Program.cs",
               "RelativeDocumentMoniker": "PedidoService.API\\Program.cs",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.API\\Program.cs",
               "RelativeToolTip": "PedidoService.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T00:36:50.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PedidoService.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
-              "RelativeToolTip": "PedidoService.Infrastructure\\PedidoService.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T00:27:46.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PedidoService.Domain",
+              "DocumentIndex": 15,
+              "Title": "PedidoService.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\PedidoService.Domain.csproj",
               "RelativeDocumentMoniker": "PedidoService.Domain\\PedidoService.Domain.csproj",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Domain\\PedidoService.Domain.csproj",
@@ -162,21 +298,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PedidoService.Application",
+              "DocumentIndex": 9,
+              "Title": "PedidoService.Application.csproj",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\PedidoService.Application.csproj",
               "RelativeDocumentMoniker": "PedidoService.Application\\PedidoService.Application.csproj",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.Application\\PedidoService.Application.csproj",
               "RelativeToolTip": "PedidoService.Application\\PedidoService.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-05T00:27:23.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PedidoService.API",
+              "DocumentIndex": 17,
+              "Title": "PedidoService.API.csproj",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.API\\PedidoService.API.csproj",
               "RelativeDocumentMoniker": "PedidoService.API\\PedidoService.API.csproj",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\PedidoService.API\\PedidoService.API.csproj",
@@ -188,13 +324,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PedidoService.Tests",
+              "DocumentIndex": 18,
+              "Title": "PedidoService.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\tests\\PedidoService.Tests\\PedidoService.Tests.csproj",
               "RelativeDocumentMoniker": "tests\\PedidoService.Tests\\PedidoService.Tests.csproj",
               "ToolTip": "C:\\Users\\brian\\Documents\\Agora n\u00E3o vai\\Narb-Microsservico\\Pasta do fracasso\\PedidoService\\tests\\PedidoService.Tests\\PedidoService.Tests.csproj",
               "RelativeToolTip": "tests\\PedidoService.Tests\\PedidoService.Tests.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwBIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-05T00:00:38.95Z",
               "EditorCaption": ""
