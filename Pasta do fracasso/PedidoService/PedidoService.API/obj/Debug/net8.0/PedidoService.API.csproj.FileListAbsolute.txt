@@ -1,0 +1,169 @@
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.exe
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.deps.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.runtimeconfig.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Application.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Domain.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Application.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Domain.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.csproj.AssemblyReference.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.AssemblyInfo.cs
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.sourcelink.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.PedidoService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.PedidoService.API.props
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PedidoService.API.props
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PedidoService.API.props
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\scopedcss\bundle\PedidoService.API.styles.css
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoSe.BC0BE4C5.Up2Date
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\refint\PedidoService.API.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.genruntimeconfig.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\ref\PedidoService.API.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\appsettings.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.exe
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.deps.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.runtimeconfig.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.API.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\MediatR.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Application.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Domain.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Application.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Infrastructure.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\PedidoService.Domain.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.csproj.AssemblyReference.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.AssemblyInfo.cs
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.PedidoService.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.build.PedidoService.API.props
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PedidoService.API.props
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PedidoService.API.props
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\scopedcss\bundle\PedidoService.API.styles.css
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoSe.BC0BE4C5.Up2Date
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\refint\PedidoService.API.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\PedidoService.API.genruntimeconfig.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\obj\Debug\net8.0\ref\PedidoService.API.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
