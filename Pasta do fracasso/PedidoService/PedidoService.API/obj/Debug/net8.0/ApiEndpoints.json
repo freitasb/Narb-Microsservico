@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "PedidoService.API.Controllers.ClienteController",
+    "Method": "Criar",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PedidoService.Application.Commands.CriarCliente.CriarClienteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PedidoService.API.Controllers.PedidoController",
+    "Method": "Criar",
+    "RelativePath": "api/Pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PedidoService.Application.Commands.CriarPedido.CriarPedidoCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

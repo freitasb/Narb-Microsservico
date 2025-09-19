@@ -5,6 +5,8 @@ using PedidoService.Application.Commands.CriarPedido;
 
 namespace PedidoService.API.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class PedidoController : ControllerBase
     {
         private readonly IMediator _mediator;
@@ -18,7 +20,7 @@ namespace PedidoService.API.Controllers
         public async Task<IActionResult> Criar([FromBody] CriarPedidoCommand command)
         {
             var id = await _mediator.Send(command);
-            return Ok(new { ClienteId = id });
+            return Ok(new { PedidoId = id });
         }
     }
 }

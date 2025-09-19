@@ -7,9 +7,9 @@ namespace PedidoService.Application.Commands.CriarPedido
 {
     public class CriarPedidoCommandHandler : IRequestHandler<CriarPedidoCommand, Guid>
     {
-        private readonly IRepository<Pedido> _repository;
+        private readonly IPedidoRepository _repository;
 
-        public CriarPedidoCommandHandler(IRepository<Pedido> pedidoRepository)
+        public CriarPedidoCommandHandler(IPedidoRepository pedidoRepository)
         {
             _repository = pedidoRepository;
         }
@@ -20,6 +20,10 @@ namespace PedidoService.Application.Commands.CriarPedido
 
             foreach (var itemDto in request.Itens)
             {
+                if (itemDto.ProdutoId == Guid.Empty)
+                {
+                    itemDto.ProdutoId = Guid.NewGuid();
+                }
                 var item = new PedidoItem(itemDto.ProdutoId, itemDto.NomeProduto, itemDto.Quantidade, itemDto.PrecoUnitario);
                 pedido.AdicionarItem(item);
             }

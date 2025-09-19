@@ -11,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace PedidoService.Infrastructure.Repositories
 {
-    public class PedidoRepository : RepositoryBase<Pedido>
+    public class PedidoRepository : RepositoryBase<Pedido>, IPedidoRepository
     {
-        public PedidoRepository(PedidoDbContext context) : base(context){}
+        public PedidoRepository(PedidoDbContext context) : base(context){ }
 
         public async Task<IEnumerable<Pedido>> BuscarPorClienteIdAsync(Guid clienteId)
         {

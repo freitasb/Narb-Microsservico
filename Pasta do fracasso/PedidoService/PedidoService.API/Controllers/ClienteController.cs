@@ -4,6 +4,8 @@ using PedidoService.Application.Commands.CriarCliente;
 
 namespace PedidoService.API.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class ClienteController : ControllerBase
     {
         private readonly IMediator _mediator;

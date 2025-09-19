@@ -1,0 +1,82 @@
+## Baseado no VisualStudio.gitignore oficial do GitHub
+## Editado para microsserviço .NET + EF Core
+
+# User-specific files
+*.suo
+*.bak
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+bld/
+out/
+artifacts/
+
+# VS cache/options directory
+.vs/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Entity Framework snapshots (opcional)
+# se quiser versionar só as migrations, deixe assim
+**/*.Designer.cs
+**/*Snapshot.cs
+
+# Arquivos de config locais
+appsettings.Development.json
+secrets.json
+*.pubxml
+*.publishproj
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Azure / Publish
+publish/
+PublishScripts/
+
+# SQL Server / LocalDB
+*.mdf
+*.ldf
+*.ndf
+
+# IDEs e ferramentas
+.idea/
+*.sln.iml
+.vscode/
+_ReSharper*/
+*.DotSettings.user
+*.cr/
+.axoCover/*
+*.JustCode
+_TeamCity*
+*.dotCover
+*.ncrunch*
+nCrunchTemp_*
+
+# Node.js (se tiver frontend dentro do repo)
+node_modules/
+dist/
+bower_components/
+
+# Logs
+*.log
+*.tlog
+*.err
+*.wrn

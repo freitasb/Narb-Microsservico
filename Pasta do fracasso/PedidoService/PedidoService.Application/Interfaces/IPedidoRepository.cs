@@ -1,4 +1,5 @@
-﻿using PedidoService.Domain.Entities;
+﻿using PedidoService.Application.Interfaces;
+using PedidoService.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,10 +8,8 @@ using System.Threading.Tasks;
 
 namespace PedidoService.Application.Repositories
 {
-    public interface IPedidoRepository
+    public interface IPedidoRepository : IRepository<Pedido>
     {
-        Task AdicionarAsync(Pedido pedido);
-        Task<Pedido?> ObterPorIdAsync(Guid id);
-        Task<List<Pedido>> ListarTodosAsync();
+        Task<IEnumerable<Pedido>> BuscarPorClienteIdAsync(Guid clienteId);
     }
 }

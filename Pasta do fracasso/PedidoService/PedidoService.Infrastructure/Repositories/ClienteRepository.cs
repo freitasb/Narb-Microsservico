@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PedidoService.Application.Interfaces;
 using PedidoService.Domain.Entities;
 using PedidoService.Infrastructure.Context;
 using System;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace PedidoService.Infrastructure.Repositories
 {
-    public class ClienteRepository : RepositoryBase<Cliente>
+    public class ClienteRepository : RepositoryBase<Cliente>, IClienteRepository
     {
         public ClienteRepository(PedidoDbContext context) : base(context) { }
 

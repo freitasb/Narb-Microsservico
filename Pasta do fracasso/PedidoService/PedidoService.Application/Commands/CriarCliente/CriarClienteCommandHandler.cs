@@ -1,4 +1,5 @@
-﻿using PedidoService.Application.Interfaces;
+﻿using MediatR;
+using PedidoService.Application.Interfaces;
 using PedidoService.Domain.Entities;
 using PedidoService.Domain.Value_Objects;
 using System;
@@ -9,11 +10,11 @@ using System.Threading.Tasks;
 
 namespace PedidoService.Application.Commands.CriarCliente
 {
-    public class CriarClienteCommandHandler
+    public class CriarClienteCommandHandler : IRequestHandler<CriarClienteCommand, Guid>
     {
-        private readonly IRepository<Cliente> _repository;
+        private readonly IClienteRepository _repository;
 
-        public CriarClienteCommandHandler(IRepository<Cliente> repository)
+        public CriarClienteCommandHandler(IClienteRepository repository)
         {
             _repository = repository;
         }

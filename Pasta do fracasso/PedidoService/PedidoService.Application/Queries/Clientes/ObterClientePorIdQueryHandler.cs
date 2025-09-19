@@ -12,9 +12,9 @@ namespace PedidoService.Application.Queries.Clientes
 {
     public class ObterClientePorIdQueryHandler : IRequestHandler<ObterClientePorIdQuery, ClienteDTO>
     {
-        private readonly IRepository<Cliente> _repository;
+        private readonly IClienteRepository _repository;
 
-        public ObterClientePorIdQueryHandler(IRepository<Cliente> repository)
+        public ObterClientePorIdQueryHandler(IClienteRepository repository)
         {
             _repository = repository;
         }

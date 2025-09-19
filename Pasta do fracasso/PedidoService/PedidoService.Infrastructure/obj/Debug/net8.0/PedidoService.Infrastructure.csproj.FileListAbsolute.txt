@@ -1,0 +1,40 @@
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.deps.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.runtimeconfig.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Application.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Domain.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Application.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Domain.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.AssemblyInfo.cs
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.sourcelink.json
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoSe.C2585DBA.Up2Date
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\refint\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.pdb
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.genruntimeconfig.cache
+C:\Users\brian\Documents\Agora não vai\Narb-Microsservico\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\ref\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.deps.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.runtimeconfig.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Infrastructure.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Application.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Domain.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Application.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\bin\Debug\net8.0\PedidoService.Domain.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.AssemblyInfo.cs
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.sourcelink.json
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoSe.C2585DBA.Up2Date
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\refint\PedidoService.Infrastructure.dll
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.pdb
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\PedidoService.Infrastructure.genruntimeconfig.cache
+C:\Users\brian\Documents\Narb-Microsservico-main\Narb-Microsservico-main\Pasta do fracasso\PedidoService\PedidoService.Infrastructure\obj\Debug\net8.0\ref\PedidoService.Infrastructure.dll

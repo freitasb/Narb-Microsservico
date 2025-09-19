@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PedidoService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PedidoService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PedidoService.Infrastructure.dll": {}
+        }
+      },
+      "PedidoService.Domain/1.0.0": {
+        "runtime": {
+          "PedidoService.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PedidoService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PedidoService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

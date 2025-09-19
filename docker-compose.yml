@@ -1,0 +1,45 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: narb-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: narb_db
+      MYSQL_USER: appuser
+      MYSQL_PASSWORD: apppass
+    ports:
+      - "3306:3306" # útil para conectar com Workbench local
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - narb-net
+
+  api:
+    build:
+      context: "./Pasta do fracasso/PedidoService"
+      dockerfile: Dockerfile
+    container_name: pedido-service-api
+    restart: unless-stopped
+    depends_on:
+      - mysql
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=server=mysql;port=3306;database=narb_db;user=appuser;password=apppass
+    ports:
+      - "5000:80"
+    networks:
+      - narb-net
+
+volumes:
+  mysql_data:
+
+networks:
+  narb-net:
+    driver: bridge
